@@ -6,3 +6,5 @@ logging:
   level:
     root: info
     hello.springmvc: debug
+server:
+  port: 7080
